@@ -1,11 +1,13 @@
-# Getting Started with Create React App
+# Proyecto de tematica OpenAI GPT3 con Javascript Y ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto realizado en ReactJS con el fin de mejorar las practicas en el desarrollo web
 
-## Available Scripts
+## Contenidos Para tener en cuenta
 
-In the project directory, you can run:
-
+- Uso de Variables en css (index.css)
+- Organizacion de los estilos en css aplicando una sintaxis convencional ()
+- Facilitar la importacion de multiples componentes(index js en componentes/containers)
+- 
 ### `npm start`
 
 Runs the app in the development mode.\
