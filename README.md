@@ -7,6 +7,7 @@ Proyecto realizado en ReactJS con el fin de mejorar las practicas en el desarrol
 - Uso de Variables en css (index.css)
 - Organizacion de los estilos en css aplicando una sintaxis convencional ()
 - Facilitar la importacion de multiples componentes(index js en componentes/containers)
+- Uso de flexbox para la responsividad de los componentes
 - 
 ### `npm start`
 
